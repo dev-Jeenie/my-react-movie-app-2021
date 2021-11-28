@@ -18,3 +18,5 @@ function App() {
 }
 
 export default App;
+
+// 수정 후 업데이트하고 싶다면? npm run deploy
